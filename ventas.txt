@@ -1,0 +1,2 @@
+{"bus":"1","ruta":"1","fecha":"31/05/2025","hora":"0","nombrePasajero":"Nataly","dpiPasajero":"789456123","generoPasajero":"Femenino"}
+{"bus":"1","ruta":"1","fecha":"31/05/2025","hora":"0","nombrePasajero":"Diego","dpiPasajero":"5478965","generoPasajero":"Masculino"}
